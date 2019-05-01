@@ -1,0 +1,8 @@
+data/
+.idea/
+.DS_Store
+res/
+__pycache__/
+saved_model/
+__pycache__/models.cpython-36.pyc
+__pycache__/utils.cpython-36.pyc
